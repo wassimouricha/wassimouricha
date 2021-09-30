@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wassim 27 living in Lille,France
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 You can reach me at https://www.linkedin.com/in/wassim-bouricha/
 
 
