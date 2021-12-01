@@ -1,6 +1,6 @@
 ### Hi there, I'm Wassim - [website] 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio)](https://wassimouricha.github.io/portfolio/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://wassimouricha.github.io)](https://wassimouricha.github.io/portfolio/)
 
 
 ## I'm a student 
