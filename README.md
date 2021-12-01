@@ -33,10 +33,6 @@
 <br />
 <br />
 
----
-
-
----
 
 [website]: https://wassimouricha.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/wassim-bouricha/
