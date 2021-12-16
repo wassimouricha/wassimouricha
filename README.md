@@ -11,7 +11,7 @@
 
 [<img align="left" alt="wassim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 <br />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wassimouricha&show_icons=true&hide_border=true" />
