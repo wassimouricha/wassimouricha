@@ -15,14 +15,6 @@ I'm a student
 <a href="https://www.github.com/wassimouricha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wassimouricha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Connect with me:
-
-[<img align="left" alt="wassim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wassimouricha&show_icons=true&hide_border=true" />
-
 ### Skills
 
 <p align="left">
