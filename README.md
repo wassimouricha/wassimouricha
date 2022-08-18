@@ -1,7 +1,9 @@
 Hi 👋 My name is Wassim Bouricha
 ================================
 
-I'm a student
+I'm a student , this is my personal  profile
+-------------
+My professional profile  is : https://github.com/Bour1cha
 -------------
 
 * 🌍  I'm based in Lille,France
