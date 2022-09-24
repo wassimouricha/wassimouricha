@@ -7,8 +7,8 @@ My professional profile  is : https://github.com/Bour1cha
 -------------
 
 * 🌍  I'm based in Lille,France
-* 🌱  I’m currently learning everything 🤣
-* 🖥️  See my portfolio at [Portfolio](http://https://wassimouricha.github.io/Portfolio/)
+* 🌱  I’m currently studying at Aston ecole IT and i'm learning everything 🤣
+* 🖥️  See my portfolio at [Portfolio](https://wassimouricha.github.io/portfoliov2/)
 * ✉️  You can contact me at [wbouricha5@gmail.com](mailto:wbouricha5@gmail.com)
 * 👯  I’m looking to collaborate with other content creators
 * 🥅  2022 Goals: Learn more programming language
