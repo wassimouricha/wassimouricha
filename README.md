@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wassimouricha" alt="wassimouricha" /></a> </p>
 
-- ✉️ You can contact me at **wassim.bouricha@digi-service.fr**
+- ✉️ You can contact me at **wbouricha5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
